@@ -1,0 +1,5 @@
+.aaaaMuiOutlinedInput-root.Mui-focused fieldset:not(.focus){
+    /* outline-color: red !important; */
+    border-color: rgb(247, 0, 255);
+    /* font-size: 3rem; */
+}
